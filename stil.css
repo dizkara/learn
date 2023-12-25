@@ -1,0 +1,20 @@
+
+baslik {
+	font-weight: bold;
+	font-size: 32px;
+	font-style: italic;
+	text-decoration: underline;
+	display: block;
+       }
+dortluk {
+	display: block;
+	margin-bottom: 16px;
+	}
+misra  {
+	display: block;
+       }
+sair   {
+	font-weight: bold;
+	font-size: 20px;
+	font-style: italic;
+       }
